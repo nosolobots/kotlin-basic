@@ -1,1 +1,1 @@
-adoptopenjdk-15-hotspot-jre
+openjdk-11-jre
