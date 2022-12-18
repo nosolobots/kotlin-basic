@@ -1,7 +1,7 @@
 name: kotlin-basic
 dependencies: 
-  - kotlin-jupyter-kernel>=0.7.1
-  - python=3.6
+  - python=3.7
+  - kotlin-jupyter-kernel>=0.9.1
 channels:
   - jetbrains
 
